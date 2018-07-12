@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 12, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Pedro Fontanez)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we use JQuery to display text when clicking the text.)
 
 ### View Project Online:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (jQuery use as a $ shortcut for jQuery)
+2. (JQuery is written in the JavaScript language.)
+3. (jQuery enables developers to implement common tasks with minimal code)
 
